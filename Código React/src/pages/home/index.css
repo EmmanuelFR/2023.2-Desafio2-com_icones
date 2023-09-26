@@ -1,0 +1,13 @@
+.carousel-inner {
+    width: 500px;
+    height: 500px;
+    margin-left: 520px;
+    margin-top: 25px;
+}
+
+.titulo-home {
+    margin-top: 25px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+}
